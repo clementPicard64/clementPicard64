@@ -22,7 +22,8 @@
 - **Core & Low-Level Languages:** C, C++, Python, Java, R, SQL, JavaScript, PHP
 - **Target Specialization (3rd Year):** Embedded Linux, Microcontrollers (STM32/ESP32), RTOS, Communication Protocols (I2C, SPI, UART, CAN)
 - **Systems & Security Tools:** Linux/Unix, Git, Wireshark, Nmap, Metasploit
-- **Graphics & Applied Math:** Three.js, WebGL, SVD, Matrix Reduction, Differential Equations
+- **Graphics**  SVD, Matrix Reduction, Differential Equations
+- **Applied Math** Three.js, WebGL
 
 ---
 
