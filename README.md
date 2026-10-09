@@ -63,8 +63,3 @@
 -  [Repository](https://github.com/clementpicard/euro-airship-3d)
 
 ---
-
-### 📊 GitHub Stats
-
-![Clément's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clementpicard&show_icons=true&theme=radial)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clementpicard&layout=compact&theme=radial)
