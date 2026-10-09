@@ -51,7 +51,7 @@
 > Real-time simulation modeling spatial dynamics, exit flow rates, and bottleneck phenomena
 
 - **Stack:** Python, Tkinter, Differential Equations
-- **Focus:** Mathematical modeling, trajectory tracking, real-time mechanics
+- **Focus:** Mathematical modeling, real-time mechanics
 -  [Repository](https://github.com/clementpicard/crowd-evacuation-sim)
 
 ---
@@ -60,7 +60,7 @@
 > Terminal-based board game ("Petits Chevaux") focused on low-level memory control and decision algorithms
 
 - **Stack:** C, Manual Memory Allocation (`malloc`/`free`), Pointers
-- **Focus:** Low-level memory management, rule evaluation algorithms, heuristic AI
+- **Focus:** Low-level memory management and rule evaluation algorithms
 -  [Repository](https://github.com/clementpicard/c-petits-chevaux-ai)
 
 ---
