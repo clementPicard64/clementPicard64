@@ -29,12 +29,12 @@
 
 ### Featured Academic & Engineering Projects
 
-#### 1. [Terminal Game Engine & Heuristic AI](https://github.com/clementpicard/c-petits-chevaux-ai)
-> Terminal-based board game ("Petits Chevaux") focused on low-level memory control and decision algorithms
+#### 1. [Airship 3D Virtual Tour Engine (Euro Airship Internship)](https://github.com/clementpicard/euro-airship-3d)
+> Interactive 3D virtual tour of an airship environment developed during my software engineering internship
 
-- **Stack:** C, Manual Memory Allocation (`malloc`/`free`), Pointers
-- **Focus:** Low-level memory management, rule evaluation algorithms, heuristic AI
--  [Repository](https://github.com/clementpicard/c-petits-chevaux-ai)
+- **Stack:** JavaScript, Three.js, WebGL
+- **Focus:** Rendering pipeline optimization and camera control
+-  [Repository](https://github.com/clementpicard/euro-airship-3d)
 
 ---
 
@@ -56,11 +56,14 @@
 
 ---
 
-#### 4. [Airship 3D Virtual Tour Engine (Euro Airship Internship)](https://github.com/clementpicard/euro-airship-3d)
-> Interactive 3D virtual tour of an airship environment developed during my software engineering internship
+#### 4. [Terminal Game Engine & Heuristic AI](https://github.com/clementpicard/c-petits-chevaux-ai)
+> Terminal-based board game ("Petits Chevaux") focused on low-level memory control and decision algorithms
 
-- **Stack:** JavaScript, Three.js, WebGL
-- **Focus:** Rendering pipeline optimization and camera control
--  [Repository](https://github.com/clementpicard/euro-airship-3d)
+- **Stack:** C, Manual Memory Allocation (`malloc`/`free`), Pointers
+- **Focus:** Low-level memory management, rule evaluation algorithms, heuristic AI
+-  [Repository](https://github.com/clementpicard/c-petits-chevaux-ai)
+
+---
+
 
 ---
